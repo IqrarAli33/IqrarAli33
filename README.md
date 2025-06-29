@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/IqrarAli33/IqrarAli33/blob/main/banner.png" alt="Iqrar Ali Banner"/>
+</p>
+
 <h1 align="center">Hi, I'm Iqrar Ali 👋</h1>
 <p align="center">
   Machine Learning Engineer & AI Enthusiast from Pakistan 🇵🇰<br>
@@ -35,8 +39,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IqrarAli&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IqrarAli&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IqrarAli33&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IqrarAli33&theme=tokyonight" width="48%" />
 </p>
 
 ---
