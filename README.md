@@ -1,95 +1,61 @@
 <h1 align="center">Hi, I'm Iqrar Ali 👋</h1>
-
 <p align="center">
-  Machine Learning Engineer | AI Developer | Trainer<br>
-  Building scalable AI systems with LLMs, RAG, and Computer Vision
+  Machine Learning Engineer & AI Enthusiast from Pakistan 🇵🇰<br>
+  Passionate about solving real-world problems using AI, LLMs, and NLP.
 </p>
 
 ---
 
-### 🧠 Summary
+### 🔧 Tech Stack & Tools
 
-I'm a Machine Learning Engineer with hands-on experience in:
-
-- Large Language Models (LLMs), Transformers, and Retrieval-Augmented Generation (RAG)
-- End-to-end development of AI-powered assistants and chatbots
-- Computer Vision and Deep Learning (CNN, RNN, LSTM)
-- AI Education & Training
-
-I enjoy creating production-ready solutions that solve real-world problems and mentoring others to do the same.
-
----
-
-### 🔧 Skills & Tools
-
-**ML/AI**: LLMs, Transformers, RAG, Model Deployment  
-**Deep Learning**: CNN, RNN, LSTM, Transfer Learning  
-**NLP**: Tokenization, Embeddings, Chatbots, Text Classification  
-**Frameworks**: LangChain, LangGraph, Scikit-learn, TensorFlow, Keras, Hugging Face  
-**Vector Databases**: Pinecone, FAISS, Chroma  
-**DevOps/MLOps**: Git, Docker, Streamlit, Gradio, Jupyter  
-**Languages**: Python, C++, Java
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A99D?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0F44?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-4C5C68?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🏢 Experience
+### 📚 Certifications
 
-**AI/ML Trainer @ Aptech Learning**  
-*Nov 2024 – Present*  
-- Trained and mentored 30+ students on ML & DL with real-world projects  
-- Built LangChain-based chatbot and email classifiers  
-- Enhanced job readiness through resume reviews & mock interviews
-
-**AI/ML Intern @ Hubaix**  
-*Feb 2025 – May 2025*  
-- Built and optimized data pipelines for ML modeling  
-- Developed AI assistants (e.g., K-Electric bot, BNB Healthcare assistant) using FastAPI, Pinecone, and Groq LLM
-
----
-
-### 💼 Projects
-
-**🧠 LangGraph-Based AI Research Assistant**  
-AI personas (Researcher, Writer, Analyst) collaborate to generate research reports using Wikipedia and Tavily data.
-
-**✍️ Essay Writing Agent**  
-Interactive Gradio-based essay generator using LangChain & LangGraph with human-in-the-loop and revision flow.
-
-**🛡️ DDoS Attack Classification**  
-Ensemble learning model (Stacking, Voting) for the CICDDoS dataset with 99.3% accuracy.
-
-**🖊️ Signature Forgery Detection**  
-Trained DenseNet121 & VGG16 on CEDAR and custom datasets, achieving 98.5% accuracy.
-
----
-
-### 🎓 Education & Certifications
-
-**Bachelor's in Computer Systems Engineering**  
-*Quaid-e-Awam University Nawabshah, 2020 – 2024*  
-- CGPA: 3.49/4.00
-
-**Certifications**  
-- Machine Learning Specialization – Coursera (Andrew Ng)  
-- Deep Learning Specialization – Coursera (Andrew Ng)
+- 🏅 Machine Learning Specialization – Coursera (Andrew Ng)  
+- 🧠 Deep Learning Specialization – Coursera (Andrew Ng)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrarali&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrarali&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IqrarAli&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IqrarAli&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 Interests
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqrar-ali-r-9a88a3214/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IqrarAli)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iqrarrajper22@gmail.com)
+- Machine Learning & Deep Learning Solutions for real-world problems 
+- Building agentic workflows with LangGraph & LLMs  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Natural Language Processing & Chatbot Development  
+- Teaching and making AI more accessible for everyone
 
 ---
 
-> “Strive to build things that make a difference — in code, in learning, and in people’s lives.” – Iqrar
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqrar-ali-r-9a88a3214/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iqrarrajper22@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/IqrarAli)
+
+---
+
+> “Let code be the bridge between your imagination and real-world impact.” — Iqrar
