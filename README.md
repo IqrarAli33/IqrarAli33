@@ -26,8 +26,9 @@
 
 ### 📚 Certifications
 
-- 🏅 Machine Learning Specialization – Coursera (Andrew Ng)  
-- 🧠 Deep Learning Specialization – Coursera (Andrew Ng)
+- 🧠 [Deep Learning Specialization – Coursera (Andrew Ng)](https://www.coursera.org/account/accomplishments/specialization/WYMT75ZMFFFK)
+- 🤖 [Machine Learning Specialization – Coursera (Andrew Ng)](https://www.coursera.org/account/accomplishments/specialization/EVM9R8VS8322)
+- 🐍 [Python for Everybody Specialization – Coursera](https://www.coursera.org/account/accomplishments/specialization/BX7XSQB7JEPP)
 
 ---
 
@@ -42,7 +43,7 @@
 
 ### 🧠 Interests
 
-- Machine Learning & Deep Learning Solutions for real-world problems 
+- Machine Learning & Deep Learning Solutions for real-world problems  
 - Building agentic workflows with LangGraph & LLMs  
 - Retrieval-Augmented Generation (RAG) pipelines  
 - Natural Language Processing & Chatbot Development  
